@@ -11,7 +11,7 @@
         $rootScope.demoId = 'ex1';
         $scope.myDataSource = {
             chart: {
-                caption: "Harry's SuperMart",
+                caption: "Shyam's SuperMart",
                 subCaption: "Top 5 stores in last month by revenue",
                 numberPrefix: "$",
                 theme: "ocean"
